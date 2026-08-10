@@ -1,9 +1,42 @@
 {
   "version": "1.0.0",
   "created": "2026-08-10T04:11:37.208Z",
-  "updated": "2026-08-10T04:11:37.208Z",
+  "updated": "2026-08-10T04:49:34.418Z",
   "machine": "ltdt",
-  "files": {},
+  "files": {
+    "zshrc": {
+      "source": "~/.zshrc",
+      "destination": "files/shell/.zshrc",
+      "category": "shell",
+      "strategy": "copy",
+      "encrypted": false,
+      "template": false,
+      "permissions": "644",
+      "added": "2026-08-10T04:27:10.902Z",
+      "modified": "2026-08-10T04:49:34.418Z",
+      "checksum": "a83e57723ee61eca47d096f01c4afbbcab0b80d825a4015fb39dd76908a1519d",
+      "sourceMtimeMs": 1786333422254.8442,
+      "sourceSize": 2417,
+      "bundle": "default",
+      "tags": []
+    },
+    "config_kitty_kitty-conf": {
+      "source": "~/.config/kitty/kitty.conf",
+      "destination": "files/terminal/.config/kitty/kitty.conf",
+      "category": "terminal",
+      "strategy": "copy",
+      "encrypted": false,
+      "template": false,
+      "permissions": "644",
+      "added": "2026-08-10T04:31:36.653Z",
+      "modified": "2026-08-10T04:31:36.653Z",
+      "checksum": "b96c6b0355486cab07f048f3e2da54a8da9530593dc0a5fdb96a681f957324e9",
+      "sourceMtimeMs": 1767577824561.6729,
+      "sourceSize": 471,
+      "bundle": "default",
+      "tags": []
+    }
+  },
   "bundles": {
     "default": {
       "created": "2026-08-10T04:11:37.208Z"
