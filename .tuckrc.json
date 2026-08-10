@@ -1,0 +1,46 @@
+{
+  "repository": {
+    "path": "/home/shiro/dotfiles",
+    "defaultBranch": "main",
+    "autoCommit": true,
+    "autoPush": false
+  },
+  "files": {
+    "strategy": "copy",
+    "backupOnRestore": true
+  },
+  "categories": {},
+  "ignore": [],
+  "hooks": {},
+  "templates": {
+    "enabled": false,
+    "variables": {}
+  },
+  "encryption": {
+    "enabled": false,
+    "backupsEnabled": false,
+    "files": []
+  },
+  "ui": {
+    "colors": true,
+    "emoji": true,
+    "verbose": false
+  },
+  "security": {
+    "scanSecrets": true,
+    "blockOnSecrets": true,
+    "minSeverity": "high",
+    "scanner": "builtin",
+    "customPatterns": [],
+    "excludePatterns": [],
+    "excludeFiles": [],
+    "maxFileSize": 10485760,
+    "secretBackend": "auto",
+    "cacheSecrets": true,
+    "secretMappings": "secrets.mappings.json"
+  },
+  "remote": {
+    "mode": "github",
+    "username": "ltdt-apex"
+  }
+}
