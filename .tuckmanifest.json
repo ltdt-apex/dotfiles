@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "created": "2026-08-10T04:11:37.208Z",
-  "updated": "2026-08-10T04:49:34.418Z",
+  "updated": "2026-08-10T04:50:21.101Z",
   "machine": "ltdt",
   "files": {
     "zshrc": {
@@ -13,8 +13,8 @@
       "template": false,
       "permissions": "644",
       "added": "2026-08-10T04:27:10.902Z",
-      "modified": "2026-08-10T04:49:34.418Z",
-      "checksum": "a83e57723ee61eca47d096f01c4afbbcab0b80d825a4015fb39dd76908a1519d",
+      "modified": "2026-08-10T04:50:21.101Z",
+      "checksum": "48298a0c42789f96624ba2fcbced6d5665aabd3caf0c8f4026a787d0a5d2b7fd",
       "sourceMtimeMs": 1786333422254.8442,
       "sourceSize": 2417,
       "bundle": "default",

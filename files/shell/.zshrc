@@ -12,6 +12,7 @@ plugins=(
     zsh-syntax-highlighting
 )
 
+
 source $ZSH/oh-my-zsh.sh
 
 # Check archlinux plugin commands here
