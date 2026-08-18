@@ -1,0 +1,21 @@
+[pyprland]
+
+plugins = [
+  "scratchpads",
+  "magnify",
+]
+
+[scratchpads.term]
+animation = "fromTop"
+command = "kitty --class kitty-dropterm"
+position = "30% 30%"
+class = "kitty-dropterm"
+size = "40% 40%"
+
+[scratchpads.browser]
+animation = "fromTop"
+command = "firefox"
+class = "firefox"
+position = "15% 9%"
+size = "70% 85%"
+multi = false

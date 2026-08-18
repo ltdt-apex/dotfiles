@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "created": "2026-08-10T04:11:37.208Z",
-  "updated": "2026-08-10T04:50:37.478Z",
+  "updated": "2026-08-18T03:48:58.793Z",
   "machine": "ltdt",
   "files": {
     "zshrc": {
@@ -33,6 +33,20 @@
       "checksum": "b96c6b0355486cab07f048f3e2da54a8da9530593dc0a5fdb96a681f957324e9",
       "sourceMtimeMs": 1767577824561.6729,
       "sourceSize": 471,
+      "bundle": "default",
+      "tags": []
+    },
+    "config_hypr": {
+      "source": "~/.config/hypr",
+      "destination": "files/misc/.config/hypr",
+      "category": "misc",
+      "strategy": "copy",
+      "encrypted": false,
+      "template": false,
+      "permissions": "755",
+      "added": "2026-08-18T03:47:58.927Z",
+      "modified": "2026-08-18T03:48:58.793Z",
+      "checksum": "a787d336ac2288031b22e12e139611a83c04f0cb306db069984232f78539fa6e",
       "bundle": "default",
       "tags": []
     }
