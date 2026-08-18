@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "created": "2026-08-10T04:11:37.208Z",
-  "updated": "2026-08-18T03:53:10.555Z",
+  "updated": "2026-08-18T03:53:20.086Z",
   "machine": "ltdt",
   "files": {
     "zshrc": {
@@ -59,8 +59,8 @@
       "template": false,
       "permissions": "755",
       "added": "2026-08-18T03:52:32.745Z",
-      "modified": "2026-08-18T03:53:10.555Z",
-      "checksum": "fa1a2ef95fe66d1ae00461388f1968d98dcebf2300a69622fac539b1f5c20e11",
+      "modified": "2026-08-18T03:53:20.086Z",
+      "checksum": "a56ce80502e503bc1d6594c89102fb54caea796077ee65a2be44d856430f6e7b",
       "bundle": "default",
       "tags": []
     }

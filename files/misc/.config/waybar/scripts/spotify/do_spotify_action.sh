@@ -2,7 +2,7 @@
 
 start_player="spotify-launcher"
 player=spotify
-player_regex="^([Ss]potify)$" 
+player_regex="^([Ss]potify)$"
 action=$1
 
 if [ "$action" = "open-play-pause" ]; then
