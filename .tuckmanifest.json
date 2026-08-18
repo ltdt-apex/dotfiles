@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "created": "2026-08-10T04:11:37.208Z",
-  "updated": "2026-08-18T03:49:07.302Z",
+  "updated": "2026-08-18T03:53:10.555Z",
   "machine": "ltdt",
   "files": {
     "zshrc": {
@@ -47,6 +47,20 @@
       "added": "2026-08-18T03:47:58.927Z",
       "modified": "2026-08-18T03:49:07.302Z",
       "checksum": "51a38eb02f3fa2f07e46d8f232a7d9d4b525d12bc8cee90e06365b44d24c4597",
+      "bundle": "default",
+      "tags": []
+    },
+    "config_waybar": {
+      "source": "~/.config/waybar",
+      "destination": "files/misc/.config/waybar",
+      "category": "misc",
+      "strategy": "copy",
+      "encrypted": false,
+      "template": false,
+      "permissions": "755",
+      "added": "2026-08-18T03:52:32.745Z",
+      "modified": "2026-08-18T03:53:10.555Z",
+      "checksum": "fa1a2ef95fe66d1ae00461388f1968d98dcebf2300a69622fac539b1f5c20e11",
       "bundle": "default",
       "tags": []
     }
